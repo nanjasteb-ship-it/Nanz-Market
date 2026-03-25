@@ -1,0 +1,8 @@
+{
+  "name": "nanz-market",
+  "version": "1.0.0",
+  "description": "Nanz Market - Toko Digital Online",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
